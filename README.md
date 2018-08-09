@@ -5,16 +5,16 @@ Android Deeplinking (opening from web ) demo project
 
 # How to use 
 
-
+```
 
   <intent-filter android:label="Deep Linking">
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
-                # <data android:scheme="wisdomrider"
+                 <data android:scheme="wisdomrider"
                     android:host="deeplink" />
             </intent-filter>
-
+```
 
 
 
