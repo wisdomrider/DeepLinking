@@ -1,0 +1,4 @@
+#Thu Aug 09 13:04:12 NPT 2018
+base.0=B\:\\Android Projects\\DeepLinking2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,125 @@
+-- Merging decision tree log ---
+manifest
+ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c11bce2a7a4eaa0157ed6111682562e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\fe5bb79d26f8b6138669778dd0be9aad\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0588142d7e822dee2bb646c2bb8453b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1c51e502135c3a7d9bc6eac54858fd6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\33fcf9e962389c3fc928572a7f9b72dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2f6bf69d5bd254a88ec2391a8ed64133\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\55a99b5a7d65c8fe210e36e60fcb4dd2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\dad86be425c1f460b3cac71c93e0ce16\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2a1de2539b450639111a458b5795e93d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\7333ac289250e082cc9db60e8893e186\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1f9fc74256c1cad189343842fc0c87bf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d69eb7848b0cb064ac04526560385eac\AndroidManifest.xml:17:1-22:12
+INJECTED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml
+		INJECTED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml
+		ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml
+		ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\fe5bb79d26f8b6138669778dd0be9aad\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\fe5bb79d26f8b6138669778dd0be9aad\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:8:9-53
+	android:roundIcon
+		ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:11:9-40
+activity#wisdomrider.deeplinking.MainActivity
+ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:12:9-25:20
+	android:name
+		ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:15:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:deeplink+data:scheme:wisdomrider
+ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:17:13-23:29
+	android:label
+		ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:17:28-56
+action#android.intent.action.VIEW
+ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.DEFAULT
+ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:19:27-73
+category#android.intent.category.BROWSABLE
+ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:20:17-78
+	android:name
+		ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:20:27-75
+data
+ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:21:17-22:47
+	android:host
+		ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:22:21-44
+	android:scheme
+		ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml:21:23-51
+uses-sdk
+INJECTED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml
+INJECTED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c11bce2a7a4eaa0157ed6111682562e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c11bce2a7a4eaa0157ed6111682562e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\fe5bb79d26f8b6138669778dd0be9aad\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\fe5bb79d26f8b6138669778dd0be9aad\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0588142d7e822dee2bb646c2bb8453b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0588142d7e822dee2bb646c2bb8453b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1c51e502135c3a7d9bc6eac54858fd6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1c51e502135c3a7d9bc6eac54858fd6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\33fcf9e962389c3fc928572a7f9b72dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\33fcf9e962389c3fc928572a7f9b72dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2f6bf69d5bd254a88ec2391a8ed64133\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2f6bf69d5bd254a88ec2391a8ed64133\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\55a99b5a7d65c8fe210e36e60fcb4dd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\55a99b5a7d65c8fe210e36e60fcb4dd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\dad86be425c1f460b3cac71c93e0ce16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\dad86be425c1f460b3cac71c93e0ce16\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2a1de2539b450639111a458b5795e93d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2a1de2539b450639111a458b5795e93d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\7333ac289250e082cc9db60e8893e186\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\7333ac289250e082cc9db60e8893e186\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1f9fc74256c1cad189343842fc0c87bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1f9fc74256c1cad189343842fc0c87bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d69eb7848b0cb064ac04526560385eac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Wisdomrider\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d69eb7848b0cb064ac04526560385eac\AndroidManifest.xml:20:5-44
+INJECTED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml
+INJECTED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml
+		ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml
+		INJECTED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml
+		ADDED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml
+		INJECTED from B:\Android Projects\DeepLinking\app\src\main\AndroidManifest.xml
