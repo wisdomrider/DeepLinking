@@ -1,6 +1,9 @@
 # DeepLinking
 Android Deeplinking (opening from web ) demo project 
 
+ Demo link:
+
+[Download From Here](https://raw.githubusercontent.com/wisdomrider/DeepLinking/master/app/build/outputs/apk/debug/app-debug.apk)
 
 
 # How to use 
