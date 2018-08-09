@@ -22,4 +22,6 @@ Android Deeplinking (opening from web ) demo project
 just add this to android manifest and see
 
 here in the data scheme wisdomrider is main link and deep linking is host so here if you call
-# wisdomrider://deeplink the activity will be called. you can change it too
+# wisdomrider://deeplink 
+
+the activity will be called. you can change it too anything
